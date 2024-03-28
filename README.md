@@ -1,5 +1,5 @@
-# Jina-embeddings-v2-base-en
-This is a Jina-embeddings-v2-base-en model template you can use to import your model on Inferless Platform. It's a  english monolingual embedding model with 8192 sequence length. Built on BERT architecture (JinaBERT) supporting symmetric bidirectional variant of ALiBi for extended sequence length. Pretrained on C4 dataset, further trained on Jina AI's collection of 400M+ sentence pairs & hard negatives from diverse domains, meticulously curated.
+# BGE-M3
+BGE-M3 is an innovative project known for its versatility, featuring Multi-Functionality, Multi-Linguality, and Multi-Granularity. It excels in dense, multi-vector, and sparse retrievals simultaneously, supports over 100 languages, and handles inputs of varying granularities, from short sentences to lengthy documents of up to 8192 tokens.
 
 ---
 ## Prerequisites
