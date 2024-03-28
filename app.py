@@ -9,6 +9,6 @@ class InferlessPythonModel:
         embeddings = self.model.encode(sentences, 
                             batch_size=12, 
                             max_length=8192)['dense_vecs']
-        return {"embeddings": list(embeddings)}
+        return {"embeddings": embeddings}
     def finalize(self, args):
         self.pipe = None
